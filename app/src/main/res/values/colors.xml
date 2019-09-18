@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textButtonStandard">#FC298B</color>
+    <color name="foneButtonStandard">#33613FF8</color>
+    <color name="ultraBlack">#000000</color>
+    <color name="textButtonAccent">#29CBFC</color>
+    <color name="foneButtonAccent">#80613FF8</color>
+    <color name="plusFone">#66006064</color>
+    <color name="plusText">#00e5ff</color>
+    <color name="minusFone">#660D47A1</color>
+    <color name="minusText">#2979ff</color>
+    <color name="multiFone">#66311B92</color>
+    <color name="multiText">#651fff</color>
+    <color name="divFone">#66880E4F</color>
+    <color name="divText">#f50057</color>
+    <color name="backDial">#37474f</color>
+</resources>

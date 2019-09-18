@@ -1,0 +1,38 @@
+<resources>
+    <string name="EMPTY">NULL</string>
+    <string name="app_name">Risen Clicker</string>
+    <string name="real_zero">0</string>
+
+    <string name="endgame_header">GAME OVER!</string>
+    <string name="endgame_score">Ваш счёт:</string>
+    <string name="button_retry">Ещё раз</string>
+    <string name="button_exit">Меню</string>
+    <string name="ok_button">OK</string>
+    <string name="dialTitle">Вы попали в список лидеров!</string>
+    <string name="dialMsg">Введите своё имя:</string>
+    <string name="dialExit">Вы уверены, что хотите выйти?</string>
+
+    <string name="button_game">Играть</string>
+    <string name="button_settings">Настройки</string>
+    <string name="button_ranks">Рекорды</string>
+    <string name="button_leave">Выйти</string>
+
+    <string name="multi_easy">1.0X</string>
+    <string name="multi_medium">1.25X</string>
+    <string name="multi_hard">1.5X</string>
+
+    <string name="difficulty_header">СЛОЖНОСТЬ:</string>
+    <string name="multi_header">МНОЖИТЕЛЬ:</string>
+    <string name="pts_header">ОЧКИ:</string>
+    <string name="button_easy">Простая</string>
+    <string name="button_medium">Средняя</string>
+    <string name="button_hard">Сложная</string>
+    <string name="description_easy">Целые числа, расположение знаков не меняется.</string>
+    <string name="description_medium">Десятичные дроби, расположение знаков не меняется.</string>
+    <string name="description_hard">Десятичные дроби, случайные знаки.</string>
+
+    <string name="ranks_header">Таблица лидеров:</string>
+    <string name="ranks_button">НАЗАД</string>
+
+
+</resources>
